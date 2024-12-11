@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  /* background-image: url('../public/Dog.webp'); */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  margin-bottom: 20px;
+}
+
+.data-form {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.result {
+  margin-top: 20px;
+  text-align: left;
+}
